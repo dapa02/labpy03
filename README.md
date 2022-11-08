@@ -1,4 +1,4 @@
-# PRAKTIKUM 7
+# PRAKTIKUM 6
 LATIHAN 1 STRUKTUR KONDISI
 
 1. int(input("masukan nilai a:")) untuk memasukkan nilai variable A
