@@ -23,13 +23,15 @@ LATIHAN 2 STRUKTUR KONDISI
 
 LATIHAN 1 PERULANGAN
 
-print("Tables")
-for i in range(1,10): Uuntuk memasukan bilangan 1 sampai 9
-print(i, end="\t") print()
-for j in range(1,10):
-for k in range(1,10):
-print(j + k, end="\t")
-print("\n")
+12. print("Tables")
+13. for i in range(1,10): Uuntuk memasukan bilangan 1 sampai 9
+14. print(i, end="\t") print()
+15. for j in range(1,10):
+16. for k in range(1,10):
+17. print(j + k, end="\t")
+18. print("\n")
+
+![screenshot 3](https://user-images.githubusercontent.com/115615983/200624585-6f5d5775-29fb-4329-85ec-7030006207e6.png)
 
 LATIHAN 2 PERULANGAN
 
