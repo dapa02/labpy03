@@ -35,8 +35,10 @@ LATIHAN 1 PERULANGAN
 
 LATIHAN 2 PERULANGAN
 
-print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5') Untuk Menampilkan atau Mencetak kalimat Tampilkan N Bilangan Acak yang Lebih Kecil Dari 0.5
-jumlah=int(input("Masukan Jumlah N : ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
-import random*
-i in range ( jumlah ) : Untuk Pengulangan dengan range jumlah
-print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5))) Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5
+19. print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5') Untuk Menampilkan atau Mencetak kalimat Tampilkan N Bilangan Acak yang Lebih Kecil Dari 0.5
+20. jumlah=int(input("Masukan Jumlah N : ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
+21. import random*
+22. i in range ( jumlah ) : Untuk Pengulangan dengan range jumlah
+23. print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5))) Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5
+
+![screenshot 4](https://user-images.githubusercontent.com/115615983/200625233-920a0710-f49d-4f12-84ef-77fb0361b730.png)
