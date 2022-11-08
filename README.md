@@ -7,7 +7,7 @@ LATIHAN 1 STRUKTUR KONDISI
 4. print("A yang paling besar")
 5. if b>a maka b paling besar
 6. print("B yang paling besar")
-
+![screenshot  1](https://user-images.githubusercontent.com/115615983/200621825-02cec71c-df8c-4e5d-b127-8adbab4351e2.png)
 
 LATIHAN 2 STRUKTUR KONDISI
 
