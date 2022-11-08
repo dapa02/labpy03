@@ -1,11 +1,12 @@
+#Labpy3
 LATIHAN 1 STRUKTUR KONDISI
 
-int(input("masukan nilai a:")) untuk memasukkan nilai variable A
-int(input("masukan nilai b:")) untuk memasukkan nilai variable B
-if a>b maka a paling besar
-print("A yang paling besar")
-if b>a maka b paling besar
-print("B yang paling besar")
+1. int(input("masukan nilai a:")) untuk memasukkan nilai variable A
+2. int(input("masukan nilai b:")) untuk memasukkan nilai variable B
+3. if a>b maka a paling besar
+4. print("A yang paling besar")
+5. if b>a maka b paling besar
+6. print("B yang paling besar")
 
 
 LATIHAN 2 STRUKTUR KONDISI
