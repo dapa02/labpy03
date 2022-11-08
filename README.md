@@ -7,15 +7,18 @@ LATIHAN 1 STRUKTUR KONDISI
 4. print("A yang paling besar")
 5. if b>a maka b paling besar
 6. print("B yang paling besar")
+
 ![screenshot  1](https://user-images.githubusercontent.com/115615983/200621825-02cec71c-df8c-4e5d-b127-8adbab4351e2.png)
 
 LATIHAN 2 STRUKTUR KONDISI
 
-data = [] untuk input data
-for i in range(5):
-y = int(input("Masukan Bilangan: ")) data.append(y) untuk mengurutkan data
-list.sort(data) untuk mengurutkan data dari yang terkecil
-print("Urutan bilangan",data)
+7. data = [] untuk input data
+8. for i in range(5):
+9. y = int(input("Masukan Bilangan: ")) data.append(y) untuk mengurutkan data
+10. list.sort(data) untuk mengurutkan data dari yang terkecil
+11. print("Urutan bilangan",data)
+
+![screenshot 2](https://user-images.githubusercontent.com/115615983/200624126-86e6da49-bf6e-4742-822c-67f37423c0de.png)
 
 
 LATIHAN 1 PERULANGAN
